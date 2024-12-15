@@ -1,0 +1,45 @@
+{ "products": [
+    {
+        "id": 1,
+        "name": "Eren Jaeger",
+        "sirname": "anime bf",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tUQqos5GPQlQhKUzPGOie4SgxhaLo64mhA&amp;s",
+        "price": 6590
+    },
+    {
+        "id": 2,
+        "name": "Levi Ackerman",
+        "sirname": "anime bf",
+        "photo_url": "https://i.pinimg.com/236x/46/01/67/46016776db919656210c75223957ee39.jpg",
+        "price": 500000
+    },
+    {
+        "id": 3,
+        "name": "Jean Kirstein",
+        "sirname": "anime bf",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJlKWB26TQAysDGXjAdGWR8UXdrGUj8rFD9g&amp;s",
+        "price": 1000
+    },
+    {
+        "id": 4,
+        "name": "Conny Springer",
+        "sirname": "anime bf",
+        "photo_url": "https://i.pinimg.com/564x/a6/59/a4/a659a4ab6d9d6c4d1ce88b0bd18d1c90.jpg",
+        "price": 1000
+    },
+    {
+        "id": 5,
+        "name": "Erwin Smith",
+        "sirname": "anime bf",
+        "photo_url": "https://i.pinimg.com/736x/8c/65/2d/8c652d6c255ead9dfb783c498b0d78fd.jpg",
+        "price": 5300
+    },
+    {
+        "id": 6,
+        "name": "Zeke Jaeger",
+        "sirname": "anime bf",
+        "photo_url": "https://i.pinimg.com/236x/ed/3d/19/ed3d190d311bdfd333bb550b811ebbd3.jpg",
+        "price": 100
+    }
+   ]
+}
